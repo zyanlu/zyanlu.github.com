@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zyanlu notes</title>
+    <description></description>
+    <link>http://zyanlu.github.io/</link>
+    <atom:link href="http://zyanlu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Jun 2016 20:40:48 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 20:40:48 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;hi&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://zyanlu.github.io&quot;&gt;url&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 20:16:30 +0800</pubDate>
+        <link>http://zyanlu.github.io/test/2016/06/28/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://zyanlu.github.io/test/2016/06/28/welcome-to-jekyll.html</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+  </channel>
+</rss>
